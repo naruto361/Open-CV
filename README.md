@@ -1,2 +1,3 @@
 # Open-CV
-## Some basic opeartions using OpenCV
+` Some basic operations using OpenCV `
+
